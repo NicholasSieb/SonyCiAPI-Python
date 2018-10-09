@@ -1,0 +1,6 @@
+[general]
+username = #
+password = #
+client_id = #32char client id
+client_secret = #32char client secret
+workspace_id = #32char workspace id
